@@ -1,6 +1,66 @@
-# vit_hack_2020
+## Liveline
 
-A new Flutter project.
+Liveline App Made For VIT Hack 2020.
+
+## Packages Used 
+
+The Following Dart And Flutter Packages Has Been Used In The Project.
+```dart
+import 'package:url_launcher/url_launcher.dart';
+```
+
+## Features
+
+- Using ML Model As Backend.
+- Predicting The Disease User Is Suffering From.
+- Saving History As Well.
+
+## GitHub 
+
+If You Want To Create A New Repository In Your GitHub Then Do Following Steps :
+1) Open Git Bash.
+2) Run The Following Commands :
+```git
+#Initialize the local directory as a Git repository using :
+$ git init
+
+#Add the files in your new local repository. This stages them for the first commit. Use The Following Command :
+$ git add .
+
+#Commit the files that you've staged in your local repository.
+$ git commit -m "First commit"
+
+#In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
+$ git remote add origin remote repository URL
+# Sets the new remote
+$ git remote -v
+# Verifies the new remote URL
+
+#Push the changes in your local repository to GitHub.
+$ git push origin master
+```
+
+## GitHub  Clone
+
+If You Want To Clone This Repository Then Do The Following Steps :
+1) Open Git Bash.
+2) Run The Following Commands :
+```git
+$ git clone https://github.com/dakshp07/Liveline.git
+```
+
+## Images
+![First](images/Screenshot_1602390544.png)
+
+![Second](images/Screenshot_1602390585.png)
+
+![Third](images/Screenshot_1602390589.png)
+
+![Fourth](images/Screenshot_1602390614.png)
+
+![Fifth](images/Screenshot_1602390619.png)
+
+![Sixth](images/Screenshot_1602390625.png)
 
 ## Getting Started
 
